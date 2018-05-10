@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    overflow: hidden;
+}
+#left{
+    width: 68%;
+    overflow: hidden;
+    float: left;
+}
+#right{
+    width: 32%;
+    overflow: hidden;
+    float: left;
+}

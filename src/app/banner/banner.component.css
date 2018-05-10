@@ -1,0 +1,7 @@
+.banner img{
+    width:95%;
+    height: 200px;
+    margin: 10px;    
+    box-sizing: border-box;
+    border: 2px dashed darkcyan;
+}
